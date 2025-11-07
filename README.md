@@ -41,5 +41,8 @@ through the scores, it displays the top 5 players’
 details. Its interactive manner urges user to keep
 playing.
 
+<img width="841" height="610" alt="image" src="https://github.com/user-attachments/assets/37dde941-5552-492b-9dc8-118e946aa645" />
+
+
 ## Acknowledgements
 Special mention to my friend Harshini Prakash for the fun we had, coming up with this!
